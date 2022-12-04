@@ -1,6 +1,6 @@
 # Characters Recognition using AlexNet Convolutional Neural Network on colab
 This repository is refference from https://github.com/minhthangdang/CharactersRecognition \
-Colab is available in https://go.kaiyu.io/AlexNet-OCR-Colab
+Colab repository is available in https://go.kaiyu.io/AlexNet-OCR-Colab
 ## Prerequisites
 
 <ul>
